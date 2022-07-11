@@ -8,6 +8,14 @@ Reordering elements of an array means changing the order of elements in the arra
 
 Of course, Divan can solve this problem. However, he found it interesting, so he decided to share it with you.
 
+Input
+The first line contains a single integer n (1≤n≤105) — the size of the array a.
+
+The second line contains n integers a1,a2,…,an (1≤ai≤2⋅107) — the array a.
+
+Output
+Output the maximum value of the function that you can get by reordering elements of the array a.
+
 
 
 
